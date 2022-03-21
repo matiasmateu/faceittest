@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+    },
+    {
+        "id": 2,
+        "name": "Brewmaster",
+        "avatar": "https://icon-library.com/images/avatar-icon-images/avatar-icon-images-4.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Crystal Maiden",
+        "avatar": "https://static.vecteezy.com/ti/gratis-vector/p2/2002253-mooie-vrouw-draagt-zonnebril-avatar-karakter-pictogram-gratis-vector.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Elder Titan",
+        "avatar": "https://www.pngarts.com/files/5/User-Avatar-PNG-Free-Download.png"
+      },
+      {
+        "id": 5,
+        "name": "Hoodwink",
+        "avatar": "https://cdn-icons-png.flaticon.com/512/147/147142.png"
+      },
+      {
+        "id": 6,
+        "name": "Kunkka",
+        "avatar": "https://static.vecteezy.com/ti/gratis-vector/p1/1912726-mooie-vrouw-in-frame-cirkelvormig-avatar-karakter-gratis-vector.jpg"
+      }
+  ]

@@ -12,7 +12,10 @@
     "baseUrl": "./src",
     "paths": {
         "@screens/*": ["screens/*"],
-        "@components/*": ["components/*"]
+        "@components/*": ["components/*"],
+        "@redux/*": ["redux/*"],
+        "@interfaces/*": ["interfaces/*"],
+        "@data/*": ["data/*"]
     },
     "esModuleInterop": true /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */,
 		"experimentalDecorators": true /* Enables experimental support for ES7 decorators. */,
